@@ -9,3 +9,4 @@ django/corey_ms_schafer_blog/venv
 django/corey_ms_schafer_blog/db.sqlite3
 flask/corey_ms_schafer_blog/venv
 flask/corey_ms_schafer_blog/flaskblog/site.db
+pillow/corey_ms_schafer/*jpg

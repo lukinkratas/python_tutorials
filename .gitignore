@@ -10,3 +10,9 @@ django/corey_ms_schafer_blog/db.sqlite3
 flask/corey_ms_schafer_blog/venv
 flask/corey_ms_schafer_blog/flaskblog/site.db
 pillow/corey_ms_schafer/*jpg
+shutil/corey_ms_schafer/*zip
+shutil/corey_ms_schafer/files_to_archive
+shutil/corey_ms_schafer/unpacked
+zipfile/corey_ms_schafer/*zip
+zipfile/corey_ms_schafer/*txt
+zipfile/corey_ms_schafer/unpacked

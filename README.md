@@ -7,7 +7,8 @@ Tutorials for various python frameworks.
 - [ ] Numpy  
 - [ ] Pandas  
 - [x] Django https://www.djangoproject.com/  
-- [ ] Flask https://www.palletsprojects.com/p/flask/  
+- [x] Flask https://www.palletsprojects.com/p/flask/  
+- [x] Requests https://requests.readthedocs.io/en/master/
 
 Socratica python:  
 https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-

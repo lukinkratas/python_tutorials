@@ -21,7 +21,7 @@ https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Matplotlib/01-
 ### Line plots with fills  
 https://www.youtube.com/watch?v=x0Uguu7gqgk&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_&index=5  
 https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Matplotlib/05-Fill_Betweens  
-<img src="corey_ms_schafer/pics/01c_line_plot_fills.png" width="250"> <img src="pics/01d_line_plot_fills.png" width="250"> <img src="corey_ms_schafer/pics/01e_line_plot_fills.png" width="250">  
+<img src="corey_ms_schafer/pics/01c_line_plot_fills.png" width="250"> <img src="corey_ms_schafer/pics/01d_line_plot_fills.png" width="250"> <img src="corey_ms_schafer/pics/01e_line_plot_fills.png" width="250">  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukinkratas/pythonTutorials/blob/master/matplotlib/01c_linePlot_fills.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukinkratas/pythonTutorials/blob/master/matplotlib/01d_linePlot_fills.ipynb) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lukinkratas/pythonTutorials/blob/master/matplotlib/01e_linePlot_fills.ipynb) 
